@@ -1,10 +1,13 @@
-### Hi there 👋
-console.log('Hello World!! 👋')
-- 🌱 I’m currently learning and y will Share my projects here!⚡
-- Have A Good Day!
-![giphy](https://github.com/joseozuna/joseozuna/assets/107267140/5a7eed3e-e86d-47d1-abd9-0fb1b450cf89)
+### Hi there! 👋
 
- My personal Linkedinhttps://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-1756a2240/
+```javascript
+console.log('Hello World! 👋');
+🌱 I'm currently learning and will share my projects here! ⚡
+Have a great day!
+Check out this adorable kitty! 😺
+
+
+Connect with me on LinkedIn.
 <!--
 **joseozuna/joseozuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
