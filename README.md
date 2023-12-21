@@ -1,6 +1,6 @@
 # Hi, I'm José!
 
-![GIF](https://github.com/joseozuna/joseozuna/assets/107267140/43ff79ea-29f6-44f3-a0b8-e4eeb834f4f8){width=100 height=100}
+![GIF](https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif){width=100 height=100}
 
 I'm a Software Engineer and currently improving my skills.
 
