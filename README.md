@@ -1,6 +1,6 @@
 # Hi, I'm José!
 
-![GIF](https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif){width=100 height=100}
+<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100">
 
 I'm a Software Engineer and currently improving my skills.
 
