@@ -1,9 +1,9 @@
-Hi, I'm [Your Name]!
+Hi, I'm José!
 
-I'm a Software Engineer at [Your University or Workplace], currently working as a Developer Consultant at [Your Company or Organization].
+I'm a Software Engineer an currently improving my skils.
 
-- Twitter: [[[Your Twitter Handle](https://twitter.com/elias_ozun72417)]](https://twitter.com/elias_ozun72417)
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-1756a2240/)]
+- Twitter:  https://twitter.com/elias_ozun72417)]](https://twitter.com/elias_ozun72417)
+- LinkedIn: (https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-1756a2240/)]
 - GitHub: [https://github.com/joseozuna]
 
 ### A little more about me...
