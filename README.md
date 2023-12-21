@@ -2,8 +2,9 @@
 console.log('Hello World!! 👋')
 - 🌱 I’m currently learning and y will Share my projects here!⚡
 - Have A Good Day!
+![giphy](https://github.com/joseozuna/joseozuna/assets/107267140/5a7eed3e-e86d-47d1-abd9-0fb1b450cf89)
 
-<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+ My personal Linkedinhttps://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-1756a2240/
 <!--
 **joseozuna/joseozuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
