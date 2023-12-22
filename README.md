@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<div style="text-align: left;">
+ 
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" align="left">
 
 I'm a Software Engineer and currently improving my skills.
