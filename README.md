@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
  
-<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" align="left">
+<!-- Alinear la imagen a la izquierda -->
+<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: left; margin-right: 10px;">
 
 I'm a Software Engineer and currently improving my skills.
 
