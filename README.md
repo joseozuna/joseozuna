@@ -26,8 +26,9 @@ const me = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am currently taking courses, focusing on React and TypeScript."
 }
+
 ```
-<img align='right' src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
+<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
 
 
