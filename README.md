@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-[ https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif
-](https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif)
 
 
 <!-- Alinear la imagen a la izquierda -->
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
+<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
 -🌱 I'm a Software Engineer and currently improving my **coding skills**
 
