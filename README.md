@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm José</h1>
- 
+ ![OIG (1)](https://github.com/joseozuna/joseozuna/assets/107267140/d034e5d5-3a9c-4c89-aa2e-46968f646586)
+
 <!-- Alinear la imagen a la izquierda -->
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
