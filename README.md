@@ -1,16 +1,12 @@
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
 <p>
--🌱 I'm a Software Engineer and currently improving my **coding skills**/p>
+-🌱 I'm a Software Engineer and currently improving my **coding skills**</p>
 
 
 
 <img align='right' src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 <img align='right' src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
-<!-- <img src="https://github.com/joseozuna/joseozuna/assets/107267140/014322d4-0087-4a90-ba04-6c75a8e28772">-->
 
-<!-- Alinear la imagen a la izquierda
-<img src="https://media.giphy.com/media/RIFr5Mcb2Q4jS/giphy.gif"  width="1000"> -->
 
 
 
