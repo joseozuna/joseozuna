@@ -18,7 +18,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-joseozuna-blue)](https://github.com/joseozuna)-->
 
 ## A little more about me...
-<img align='right' src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 ```javascript
 const me = {
   pronouns: "he" | "him",
@@ -28,6 +27,7 @@ const me = {
   challenge: "I am currently taking courses, focusing on React and TypeScript."
 }
 ```
+<img align='right' src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
