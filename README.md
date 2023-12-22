@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/FMsbSSjEe0N6zH7K7x/giphy-downsized-large.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;"><h1 align="center">Hi 👋, I'm José</h1> 
-
+<h1 align="center">Hi 👋, I'm José</h1> 
+<img src="https://media.giphy.com/media/FMsbSSjEe0N6zH7K7x/giphy-downsized-large.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
 <img src="![aaaaaaa](https://github.com/joseozuna/joseozuna/assets/107267140/014322d4-0087-4a90-ba04-6c75a8e28772)  alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;"><h1 align="center">
 
