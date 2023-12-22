@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;"><h1 align="center">Hi 👋, I'm José</h1> 
+<img src="https://media.giphy.com/media/FMsbSSjEe0N6zH7K7x/giphy-downsized-large.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;"><h1 align="center">Hi 👋, I'm José</h1> 
 
 
 
