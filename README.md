@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm José</h1>
+<h1 align="center">Hi 👋, I'm José</h1> <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
+
 
 
 <!-- Alinear la imagen a la izquierda -->
 <img src="https://media.giphy.com/media/RIFr5Mcb2Q4jS/giphy.gif"  width="1000">
 
 
-<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
 -🌱 I'm a Software Engineer and currently improving my **coding skills**
 
