@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm José</h1>
+<div style="text-align: left;">
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100">
-
+  <p>Texto que está al lado de la imagen.</p>
+</div>
 I'm a Software Engineer and currently improving my skills.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40elias__ozun72417-blue)](https://twitter.com/elias_ozun72417)
