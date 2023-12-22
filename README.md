@@ -1,9 +1,10 @@
 <img src="https://media.giphy.com/media/FMsbSSjEe0N6zH7K7x/giphy-downsized-large.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;"><h1 align="center">Hi 👋, I'm José</h1> 
 
 
+<img src="![aaaaaaa](https://github.com/joseozuna/joseozuna/assets/107267140/014322d4-0087-4a90-ba04-6c75a8e28772)  alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;"><h1 align="center">
 
-<!-- Alinear la imagen a la izquierda -->
-<img src="https://media.giphy.com/media/RIFr5Mcb2Q4jS/giphy.gif"  width="1000">
+<!-- Alinear la imagen a la izquierda
+<img src="https://media.giphy.com/media/RIFr5Mcb2Q4jS/giphy.gif"  width="1000"> -->
 
 <img src"![OIG c2PR2n1Nbem3J1J3AG](https://github.com/joseozuna/joseozuna/assets/107267140/86f8e2e9-d692-4354-8831-3e2b6520583d)">
 
