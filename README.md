@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm José</h1>
- ![ricky](https://github.com/joseozuna/joseozuna/assets/107267140/aaf419a7-4016-45c4-b08b-5dc3c960da3d)
 
-
+<img
+  src="https://www.pinterest.com.mx/pin/986992074558426159/"
+  alt="GIF"
+  width="100"
+  height="100"
+  style="float: right; margin-left: 10px;"
+/>
 <!-- Alinear la imagen a la izquierda -->
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
