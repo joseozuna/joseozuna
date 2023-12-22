@@ -2,7 +2,7 @@
 
 
 <!-- Alinear la imagen a la izquierda -->
-<img src="https://media.giphy.com/media/9WNA5CTcWkE8M/giphy.gif"  width="1000">
+<img src="https://media.giphy.com/media/RIFr5Mcb2Q4jS/giphy.gif"  width="1000">
 
 
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
