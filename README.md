@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseozuna&label=Profile%20views&color=0e75b6&style=flat" alt="joseozuna" /> </p>
+I'm a Software Engineer and currently improving my skills.
 
-<p align="left"> <a href="https://twitter.com/elias_ozun72417" target="blank"><img src="https://img.shields.io/twitter/follow/elias_ozun72417?logo=twitter&style=for-the-badge" alt="elias_ozun72417" /></a> </p>
+[![Twitter](https://img.shields.io/badge/Twitter-%40elias__ozun72417-blue)](https://twitter.com/elias_ozun72417)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40joseozuna-blue)](https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-1756a2240/)
+[![GitHub](https://img.shields.io/badge/GitHub-joseozuna-blue)](https://github.com/joseozuna)
+
+## A little more about me...
+
+```javascript
+const me = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "HTML", "CSS", "Python", "Java"],
+  tools: ["React", "Node"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "I am currently taking courses, focusing on React and TypeScript."
+}
 
 - 🌱 I’m currently Improving my **coding skills**
 
