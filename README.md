@@ -16,6 +16,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40elias__ozun72417-blue)](https://twitter.com/elias_ozun72417)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40joseozuna-blue)](https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-1756a2240/)
 [![GitHub](https://img.shields.io/badge/GitHub-joseozuna-blue)](https://github.com/joseozuna)-->
+<h2> <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;"></h2>
 
 ## A little more about me...
 ```javascript
@@ -28,7 +29,6 @@ const me = {
 }
 
 ```
-<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
 
 
