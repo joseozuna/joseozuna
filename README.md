@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<img src="https://media.giphy.com/media/l1BgRuUbcL5wgQLtu/giphy-downsized-large" alt="GIF" >
-
+[ https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif
+](https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif)
 
 
 <!-- Alinear la imagen a la izquierda -->
