@@ -17,7 +17,7 @@ const me = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am currently taking courses, focusing on React and TypeScript."
 }
-
+```
 - 🌱 I’m currently Improving my **coding skills**
 
 <h3 align="left">Connect with me:</h3>
