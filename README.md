@@ -5,6 +5,7 @@
 <!-- Alinear la imagen a la izquierda -->
 <img src="https://media.giphy.com/media/RIFr5Mcb2Q4jS/giphy.gif"  width="1000">
 
+<img src"![OIG c2PR2n1Nbem3J1J3AG](https://github.com/joseozuna/joseozuna/assets/107267140/86f8e2e9-d692-4354-8831-3e2b6520583d)">
 
 
 -🌱 I'm a Software Engineer and currently improving my **coding skills**
