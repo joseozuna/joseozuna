@@ -3,8 +3,9 @@
 <!-- Alinear la imagen a la izquierda -->
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
 
+- I'm a Software Engineer and currently improving my **coding skills**
 
-I'm a Software Engineer and currently improving my skills.
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40elias__ozun72417-blue)](https://twitter.com/elias_ozun72417)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40joseozuna-blue)](https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-1756a2240/)
@@ -21,7 +22,6 @@ const me = {
   challenge: "I am currently taking courses, focusing on React and TypeScript."
 }
 ```
-- 🌱 I’m currently Improving my **coding skills**
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
