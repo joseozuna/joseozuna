@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm José</h1> 
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="GIF" width="100" height="100" style="float: right; margin-left: 10px;">
-<img src="https://github.com/joseozuna/joseozuna/assets/107267140/014322d4-0087-4a90-ba04-6c75a8e28772">
+<!-- <img src="https://github.com/joseozuna/joseozuna/assets/107267140/014322d4-0087-4a90-ba04-6c75a8e28772">-->
 
 <!-- Alinear la imagen a la izquierda
 <img src="https://media.giphy.com/media/RIFr5Mcb2Q4jS/giphy.gif"  width="1000"> -->
