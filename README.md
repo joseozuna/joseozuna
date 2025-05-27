@@ -23,37 +23,7 @@
 
 ---
 
-## 🎯 **Meet the Developer**
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header&text=&fontSize=0"/>
-</div>
-
-```typescript
-interface FullStackCreator {
-  readonly identity: {
-    name: "José Ozuna";
-    origin: "🇲🇽 Tuxtla Gutiérrez, Chiapas";
-    essence: "Ranch-raised • Tech-driven • Art-obsessed";
-  };
-  
-  readonly expertise: {
-    frontend: ["React Native", "Next.js", "TypeScript", "Three.js"];
-    design: ["UI/UX", "Figma", "Responsive Design", "Animations"];
-    backend: ["Firebase", "Node.js", "Python", "RESTful APIs"];
-    mindset: ["Clean Code", "Pixel Perfect", "User Experience"];
-  };
-
-  readonly currentMission: "Building NeoCine 🎬 - The ultimate movie companion app";
-  readonly availability: "Open to remote opportunities worldwide";
-  readonly superpower: "Turning coffee into beautiful, functional interfaces";
-}
-
-// Current status: Coding with passion, designing with soul 🚀
-const jose = new FullStackCreator();
-```
-
----
 
 <div align="center">
 
@@ -84,27 +54,6 @@ const jose = new FullStackCreator();
 </div>
 
 ---
-
-## 📊 **GitHub Analytics & Activity**
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=joseozuna&theme=radical&no-frame=true&row=1&column=7"/>
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseozuna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseozuna&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=10" />
-</div>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=joseozuna&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=c9d1d9" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joseozuna&theme=react-dark&bg_color=0D1117&color=4ecdc4&line=ff6b6b&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 🚀 **Featured Projects**
 
