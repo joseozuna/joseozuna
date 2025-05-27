@@ -1,16 +1,20 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="100" />
+</div>
 
-```
- ╭──────────────────────────────────────────────╮
- │  🌟 José Ozuna - Digital Craftsman 🌟       │
- │                                              │
- │    ⚡ Where code meets creativity ⚡         │
- ╰──────────────────────────────────────────────╯
+<div align="center">
+
+```ascii
+╭──────────────────────────────────────────────╮
+│           🌟 José Ozuna - Digital Craftsman 🌟           │
+│                                              │
+│         ⚡ Where code meets creativity ⚡         │
+╰──────────────────────────────────────────────╯
 ```
 
 </div>
 
-**Software Engineer • UI Alchemist • Creative Coder**
+<div align="center"><strong>Software Engineer • UI Alchemist • Creative Coder</strong></div>
 
 ---
 
@@ -20,7 +24,8 @@
 <tr>
 <td width="50%">
 
-**🎭 Frontend Magic**
+### 🎭 Frontend Magic
+
 ```javascript
 const skills = {
   languages: ['JavaScript', 'TypeScript'],
@@ -33,7 +38,8 @@ const skills = {
 </td>
 <td width="50%">
 
-**📱 Mobile Wizardry**
+### 📱 Mobile Wizardry
+
 ```kotlin
 class MobileSkills {
     val crossPlatform = "React Native"
@@ -46,7 +52,10 @@ class MobileSkills {
 </tr>
 </table>
 
-**🔧 Backend & Tools**
+---
+
+### 🔧 Backend & Tools
+
 ```python
 backend_stack = {
     'runtime': ['Node.js', 'Python'],
@@ -60,29 +69,35 @@ backend_stack = {
 
 ## 🚀 What I Craft
 
-🎬 **Digital Experiences** → Interfaces that tell stories  
-🔐 **Secure Solutions** → Code with cybersecurity DNA  
-🎨 **Visual Narratives** → 3D worlds & motion poetry  
-🍳 **Creative Fusion** → Where tech meets art meets flavor
+- 🎬 **Digital Experiences** → Interfaces that tell stories  
+- 🔐 **Secure Solutions** → Code with cybersecurity DNA  
+- 🎨 **Visual Narratives** → 3D worlds & motion poetry  
+- 🍳 **Creative Fusion** → Where tech meets art meets flavor
+
+---
 
 ## 🎯 Current Adventures
 
-- 🎥 **NeoCine** - Film platform that brings stories to life
-- 🎓 * Master's Journey** - Cybersecurity 
-- 🐣 **Ranch Soul** - Coding with nature's wisdom
-- 🎵 **Sound & Vision** - Exploring audio-visual synesthesia
+- 🎥 **NeoCine** — Film platform that brings stories to life  
+- 🎓 **Master's Journey** — Cybersecurity & English Teaching  
+- 🐣 **Ranch Soul** — Coding with nature’s wisdom  
+- 🎵 **Sound & Vision** — Exploring audio-visual synesthesia
 
 ---
 
 <div align="center">
 
-```
-    ╭─────────────────────────────────────╮
-    │  "Code with passion, create with    │
-    │   soul, debug with coffee ☕"       │
-    ╰─────────────────────────────────────╯
+```ascii
+╭─────────────────────────────────────────────╮
+│   "Code with passion, create with soul,     │
+│     debug with coffee ☕ and joy ✨"         │
+╰─────────────────────────────────────────────╯
 ```
 
-**Let's build something that makes people go "¡Órale!"** 🌮✨
+**Let’s build something that makes people say “¡Órale!”** 🌮🚀
 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100" />
 </div>
