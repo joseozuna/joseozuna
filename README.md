@@ -1,84 +1,88 @@
-# ✨ José Ozuna
-
 <div align="center">
 
-```ascii
-╭─────────────────────────────────────────────────────────────╮
-┃    ⚡ Software Engineer • UI Enthusiast • Creative Coder    ┃
-┃                                                             ┃
-┃       ✨ Merging ranch wisdom with digital magic ✨         ┃
-╰─────────────────────────────────────────────────────────────╯
+```
+ ╭──────────────────────────────────────────────╮
+ │  🌟 José Ozuna - Digital Craftsman 🌟       │
+ │                                              │
+ │    ⚡ Where code meets creativity ⚡         │
+ ╰──────────────────────────────────────────────╯
 ```
 
 </div>
 
----
-
-## 🛠️ **Tech Arsenal**
-
-<details>
-<summary><strong>🎨 Frontend & Design</strong></summary>
-
-```
-▸ JavaScript   ▸ TypeScript   ▸ React
-▸ Next.js      ▸ Tailwind     ▸ HTML/CSS
-▸ Sass         ▸ Responsive UI/UX Systems
-```
-</details>
-
-<details>
-<summary><strong>📱 Mobile & Backend</strong></summary>
-
-```
-▸ React Native   ▸ Java/Kotlin   ▸ Node.js
-▸ Firebase       ▸ MongoDB       ▸ Git & GitHub
-▸ Python         ▸ REST APIs     ▸ Docker (basic)
-```
-</details>
-
-<details>
-<summary><strong>🎯 Creative & Visual Tools</strong></summary>
-
-```
-▸ Three.js       ▸ Blender        ▸ Figma
-▸ Photoshop      ▸ After Effects  ▸ UI Motion Design
-```
-</details>
+**Software Engineer • UI Alchemist • Creative Coder**
 
 ---
 
-## 🌟 **Beyond the Code**
+## 🎨 My Creative Arsenal
 
-> _“Where creativity meets functionality, magic happens.”_
+<table>
+<tr>
+<td width="50%">
 
-### 🎬 **Digital Storyteller**
-- Creator of **NeoCine** • Avid film enthusiast • Visual narrative architect
+**🎭 Frontend Magic**
+```javascript
+const skills = {
+  languages: ['JavaScript', 'TypeScript'],
+  frameworks: ['React', 'Next.js'],
+  styling: ['Tailwind', 'Sass', 'CSS3'],
+  superpower: 'Making pixels dance'
+}
+```
 
-### 🔐 **Mind & Security**
-- Dual Master’s: **Cybersecurity** & **English Teaching** • UX Psychology researcher
+</td>
+<td width="50%">
 
-### 🍳 **Culinary Explorer**
-- Gourmet cook • Mexican food alchemist • Flavors with emotion
+**📱 Mobile Wizardry**
+```kotlin
+class MobileSkills {
+    val crossPlatform = "React Native"
+    val native = listOf("Java", "Kotlin")
+    val magic = "Apps that feel alive"
+}
+```
 
-### 🎨 **Visual Artisan**
-- Digital painter • Visual storyteller • UI/UX design philosopher
+</td>
+</tr>
+</table>
 
-### 🐣 **Ranch-Born Soul**
-- Grew up among animals • Baby chick whistler • Wisdom rooted in nature
+**🔧 Backend & Tools**
+```python
+backend_stack = {
+    'runtime': ['Node.js', 'Python'],
+    'databases': ['MongoDB', 'Firebase'],
+    'creative_tools': ['Three.js', 'Blender', 'Figma'],
+    'secret_sauce': 'Ranch wisdom + digital innovation'
+}
+```
 
-### 🎵 **Sonic Explorer**
-- Music maker • Meditative thinker • Empathic creator
+---
+
+## 🚀 What I Craft
+
+🎬 **Digital Experiences** → Interfaces that tell stories  
+🔐 **Secure Solutions** → Code with cybersecurity DNA  
+🎨 **Visual Narratives** → 3D worlds & motion poetry  
+🍳 **Creative Fusion** → Where tech meets art meets flavor
+
+## 🎯 Current Adventures
+
+- 🎥 **NeoCine** - Film platform that brings stories to life
+- 🎓 * Master's Journey** - Cybersecurity 
+- 🐣 **Ranch Soul** - Coding with nature's wisdom
+- 🎵 **Sound & Vision** - Exploring audio-visual synesthesia
 
 ---
 
 <div align="center">
 
-```ascii
-╭────────────────────────────────────────────╮
-┃  "Code with passion, create with soul"     ┃
-╰────────────────────────────────────────────╯
+```
+    ╭─────────────────────────────────────╮
+    │  "Code with passion, create with    │
+    │   soul, debug with coffee ☕"       │
+    ╰─────────────────────────────────────╯
 ```
 
-**Let's build something meaningful — grounded, visual, and alive.**
+**Let's build something that makes people go "¡Órale!"** 🌮✨
 
 </div>
