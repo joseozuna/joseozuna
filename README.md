@@ -3,88 +3,78 @@
 <div align="center">
 
 ```ascii
-  ╭─────────────────────────────────────────────────────────╮
-  │  ⚡ Frontend Alchemist • UI Sorcerer • Code Craftsman   │
-  │           🎬 Transforming pixels into experiences       │
-  ╰─────────────────────────────────────────────────────────╯
+   ╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+   ┃  ⚡ Frontend Alchemist • UI Sorcerer • Code Craftsman • Digital Artist  ┃
+   ┃            🎬 Transforming pixels into cinematic experiences             ┃
+   ┃                  🤠 Where ranch wisdom meets modern tech                 ┃
+   ╰─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 ```
 
-**`Where ranch wisdom meets modern tech • Crafting digital magic with Mexican soul`**
+**`Crafting digital magic with Mexican soul • Available for remote adventures`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%7C+Mobile+Developer;Pixel+Perfect+UI+Designer;Cinema+Enthusiast+%7C+Code+Artist;Available+for+Remote+Opportunities!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Frontend+Engineer+%7C+Mobile+Developer;Cinema+Enthusiast+%7C+Pixel+Perfectionist;UI%2FUX+Designer+%7C+Creative+Technologist;Ready+for+Remote+Magic!+%E2%9C%A8" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/joseozuna?style=for-the-badge&color=ff6b6b&labelColor=1a1a1a&logo=github)](https://github.com/joseozuna)
-[![GitHub stars](https://img.shields.io/github/stars/joseozuna?style=for-the-badge&color=4ecdc4&labelColor=1a1a1a&logo=github)](https://github.com/joseozuna)
-[![Profile views](https://komarev.com/ghpvc/?username=joseozuna&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/joseozuna)
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_Remote_Ready-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨_Creative_Tech-4ECDC4?style=for-the-badge&labelColor=0D1117&logo=palette&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎬_Cinema_Code-45B7D1?style=for-the-badge&labelColor=0D1117&logo=film&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤠_Ranch_Wisdom-F7DC6F?style=for-the-badge&labelColor=0D1117&logo=star&logoColor=black" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![GitHub followers](https://img.shields.io/github/followers/joseozuna?style=for-the-badge&color=ff6b6b&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/joseozuna)
+[![GitHub stars](https://img.shields.io/github/stars/joseozuna?style=for-the-badge&color=4ecdc4&labelColor=0d1117&logo=star&logoColor=white)](https://github.com/joseozuna)
+[![Profile views](https://komarev.com/ghpvc/?username=joseozuna&color=blueviolet&style=for-the-badge&label=Digital+Visitors&labelColor=0d1117)](https://github.com/joseozuna)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Welcome%20to%20my%20Digital%20Ranch&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
-
-
 
 <div align="center">
 
-## 🛠️ **Tech Stack & Expertise**
+## 🛠️ **Arsenal of Digital Craftsmanship**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
 ### 🎨 **Frontend Mastery**
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass,figma&theme=dark" />
-</p>
-
-### 📱 **Mobile Development**
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,java,kotlin,swift&theme=dark" />
-</p>
-
-### ⚙️ **Backend & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,git,github,vscode,linux,docker,aws&theme=dark" />
-</p>
-
-### 🎯 **Creative & 3D**
-<p>
-<img src="https://skillicons.dev/icons?i=threejs,blender,photoshop,illustrator,aftereffects,premiere&theme=dark" />
-</p>
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 NeoCine
-**The ultimate movie companion app**
-- React Native + TypeScript
-- Beautiful animations & transitions
-- Firebase backend integration
-- Letterboxd-inspired design
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseozuna&repo=neocine&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/joseozuna/neocine)
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass&theme=dark" />
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🌐 Portfolio Website
-**Interactive developer showcase**
-- Next.js + Three.js
-- Smooth animations
-- Responsive design
-- Modern UI/UX
+### 📱 **Mobile Wizardry**
+<br>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,java&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,firebase&theme=dark" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseozuna&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/joseozuna/portfolio)
+</td>
+<td align="center" width="25%">
+
+### ⚙️ **Backend & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,git&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=github,docker,aws,linux&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+### 🎯 **Creative Suite**
+<br>
+<img src="https://skillicons.dev/icons?i=threejs,blender,figma,photoshop&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=illustrator,aftereffects,premiere&theme=dark" />
 
 </td>
 </tr>
@@ -94,7 +84,117 @@
 
 <div align="center">
 
-## 🎨 **Beyond the Code**
+## 🚀 **Featured Digital Masterpieces**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎬 **NeoCine**
+*The ultimate cinematic companion*
+
+```
+🎭 React Native + TypeScript
+🎨 Butter-smooth animations
+🔥 Firebase-powered backend
+💫 Letterboxd-inspired aesthetics
+```
+
+<img src="https://img.shields.io/badge/Status-🚀_Live-success?style=for-the-badge&labelColor=0d1117" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseozuna&repo=neocine&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4)](https://github.com/joseozuna/neocine)
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 **Portfolio Showcase**
+*Interactive developer experience*
+
+```
+⚡ Next.js + Three.js magic
+🎯 Cinematic animations
+📱 Pixel-perfect responsive
+✨ Modern UI/UX mastery
+```
+
+<img src="https://img.shields.io/badge/Status-✨_Enhanced-informational?style=for-the-badge&labelColor=0d1117" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseozuna&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4)](https://github.com/joseozuna/portfolio)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 **The Artist Behind the Code**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🎓 **Learning Odyssey**
+```
+🔐 Cybersecurity
+📚 English Teaching
+🎬 Cinema Studies
+🧠 UX Psychology
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🔥 **Current Quests**
+```
+🤖 AI Integration
+📱 Mobile UX/UI
+⚡ Three.js Magic
+🌐 Web3 Exploration
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 **Creative Realm**
+```
+👨‍🍳 Gourmet Cooking
+🎨 Digital Art
+📸 Photography
+🎵 Music Production
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🌟 **Life Philosophy**
+```
+🤠 Ranch Wisdom
+🐣 Unique Talents
+🐶 Animal Whisperer
+✨ Pixel Perfectionist
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌈 **The Origin Story**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -102,84 +202,55 @@
 
 <div align="center">
 
-| 🎓 **Learning Journey** | 🔥 **Current Focus** | 🎨 **Creative Side** | 🌟 **Life Philosophy** |
-|:---:|:---:|:---:|:---:|
-| 🔐 Cybersecurity | 🤖 AI Integration | 👨‍🍳 Gourmet Cooking | 🤠 Ranch Wisdom |
-| 📚 English Teaching | 📱 Mobile UX/UI | 🎨 Digital Art | 🐣 Unique Talents |
-| 🎬 Cinema Studies | ⚡ Three.js Magic | 📸 Photography | 🐶 Animal Whisperer |
-| 🧠 UX Psychology | 🌐 Web3 Exploration | 🎵 Music Production | ✨ Pixel Perfectionist |
+```
+🤠 FROM RANCH TO CODE
+Mexican ranch → Cowboy grandparents → Digital frontier
+Patience + Hard work + Attention to detail = Beautiful experiences
+
+🎬 CINEMA MEETS TECHNOLOGY  
+Movie enthusiast → NeoCine creator → Cinematic UI storyteller
+Every animation has a purpose, every transition tells a story
+
+🎨 ART + ENGINEERING FUSION
+Digital painter → UI designer → Frontend alchemist
+Making technology feel human, beautiful, and magical
+```
 
 </div>
-
-### 🌈 **The Story Behind the Code**
-
-```
-🤠 From Ranch to Code:
-   Grew up with cowboy grandparents on a Mexican ranch
-   → Learned patience, hard work, and attention to detail
-   → Applied these values to crafting beautiful digital experiences
-
-🎬 Cinema Meets Code:
-   Movie enthusiast → Building NeoCine app
-   → Bringing cinematic storytelling to user interfaces
-   → Every animation tells a story
-
-🎨 Art + Technology:
-   Digital painter → UI designer → Frontend developer
-   → Blending creativity with technical precision
-   → Making technology feel human and beautiful
-```
 
 ---
 
 <div align="center">
 
-## 🤝 **Let's Build Something Amazing Together**
+## 🤝 **Ready to Create Digital Magic?**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-```
-🚀 AVAILABLE FOR REMOTE OPPORTUNITIES 🚀
-Specializing in: Frontend • Mobile • UI/UX • Creative Development
-```
-
-<div>
-<a href="mailto:joseozuna.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://joseozuna.github.io">
-<img src="https://img.shields.io/badge/Portfolio-4ecdc4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://linkedin.com/in/joseozuna">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/joseozuna_dev">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎭 **Design Philosophy & Values**
 
 ```ascii
-  ╭──────────────────────────────────────────────╮
-  │  "Code with empathy • Design with purpose"   │
-  │  "Every pixel matters • Every user matters"  │
-  │  "Ranch values + Modern tech = Magic"        │
-  ╰──────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────────────┐
+│  🚀 AVAILABLE FOR REMOTE OPPORTUNITIES 🚀                  │
+│                                                             │
+│  Specializing in:                                           │
+│  ✨ Frontend Engineering • Mobile Development               │
+│  🎨 UI/UX Design • Creative Technology                      │
+│  🎬 Interactive Experiences • Digital Storytelling         │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**Core Principles:**
-- 🎨 **Aesthetic Excellence**: Every interface should be a work of art
-- 🚀 **Performance First**: Beautiful AND fast, no compromises
-- 🧠 **User Empathy**: Technology should feel human and intuitive
-- 🌱 **Continuous Growth**: Always learning, always improving
-- 🤝 **Collaboration**: Great products are built by great teams
+<br>
+
+<a href="mailto:joseozuna.dev@gmail.com">
+<img src="https://img.shields.io/badge/📧_Let's_Talk-FF6B6B?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" />
+</a>
+<a href="https://joseozuna.github.io">
+<img src="https://img.shields.io/badge/🌐_Portfolio-4ECDC4?style=for-the-badge&labelColor=0d1117&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/joseozuna">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/joseozuna_dev">
+<img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&labelColor=0d1117&logo=twitter&logoColor=white" />
+</a>
 
 </div>
 
@@ -187,20 +258,86 @@ Specializing in: Frontend • Mobile • UI/UX • Creative Development
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer"/>
+### 🎭 **Design Philosophy & Core Values**
 
-### 💫 **Thanks for Visiting!**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>
+
+<div align="center">
+
+```ascii
+╭──────────────────────────────────────────────────────────────╮
+│   "Code with empathy • Design with purpose • Build with soul" │
+│   "Every pixel matters • Every user matters • Every story matters" │
+│   "Ranch values + Modern tech + Creative vision = Pure Magic"  │
+╰──────────────────────────────────────────────────────────────╯
 ```
-     ┌─────────────────────────────────────────┐
-     │  Ready to craft digital experiences?    │
-     │  Let's turn ideas into reality! 🚀      │
-     └─────────────────────────────────────────┘
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**🎨 Aesthetic Excellence**
+<br><sub>Every interface should be a work of art</sub>
+
+</td>
+<td align="center" width="20%">
+
+**🚀 Performance First**
+<br><sub>Beautiful AND fast, no compromises</sub>
+
+</td>
+<td align="center" width="20%">
+
+**🧠 User Empathy**
+<br><sub>Technology should feel human</sub>
+
+</td>
+<td align="center" width="20%">
+
+**🌱 Continuous Growth**
+<br><sub>Always learning, always improving</sub>
+
+</td>
+<td align="center" width="20%">
+
+**🤝 Team Collaboration**
+<br><sub>Great products, greater teams</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=Thanks%20for%20the%20Visit!&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+
+### 💫 **Ready to Turn Ideas into Digital Reality?**
+
+```ascii
+     ┌───────────────────────────────────────────────────────────┐
+     │  From ranch wisdom to digital mastery 🤠                  │
+     │  Let's craft experiences that inspire! ✨                 │
+     │  Available for remote adventures worldwide 🌍             │
+     └───────────────────────────────────────────────────────────┘
 ```
 
-⭐ **Star my repositories if they inspire you!**  
-🤝 **Follow for more creative projects and coding adventures!**
+<br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> 🎨✨</em>
+⭐ **Star my repositories if they spark your imagination!**  
+🤝 **Follow for creative coding adventures and digital storytelling!**  
+🎬 **Let's make technology feel more human, one pixel at a time!**
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>Happy coding, digital artist!</b></em> 🎨✨🚀
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
