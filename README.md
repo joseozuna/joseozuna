@@ -1,114 +1,200 @@
-# 👋 Hi there, I'm José Ozuna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+# ✨ José Ozuna
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="100" alt="Cute Penguin" />
 
-  ### 🧠 Software Engineer | UI Enthusiast | Astute Problem Solver
-  **Multidisciplinary mind with a heart in tech, a soul in art, and roots in the ranch.**
+```ascii
+  ╭─────────────────────────────────────╮
+  │  🚀 Software Engineer & UI Wizard  │
+  │     Crafting Digital Experiences    │
+  ╰─────────────────────────────────────╯
+```
 
-  [![GitHub followers](https://img.shields.io/github/followers/joseozuna?label=Follow&style=social)](https://github.com/joseozuna)
-  [![GitHub stars](https://img.shields.io/github/stars/joseozuna?label=Stars&style=social)](https://github.com/joseozuna)
+**`Multidisciplinary mind with a heart in tech, a soul in art, and roots in the ranch`**
+
+[![GitHub followers](https://img.shields.io/github/followers/joseozuna?style=flat-square&color=ff6b6b&labelColor=1a1a1a)](https://github.com/joseozuna)
+[![GitHub stars](https://img.shields.io/github/stars/joseozuna?style=flat-square&color=4ecdc4&labelColor=1a1a1a)](https://github.com/joseozuna)
+[![Profile views](https://komarev.com/ghpvc/?username=joseozuna&color=blueviolet&style=flat-square&label=Visitors)](https://github.com/joseozuna)
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 **Quick Intro**
 
-```ts
-const joseOzuna = {
-  pronouns: "he" | "him",
-  location: "🇲🇽 Tuxtla Gutiérrez, Chiapas, México",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-  frameworks: ["React Native", "Next.js", "Tailwind", "Node.js", "Firebase", "Three.js"],
-  tools: ["Expo", "Git", "Figma", "Recharts", "Lucide", "Firebase", "TMDB API"],
-  specialties: ["frontend", "mobile", "design systems", "aesthetic UI/UX"],
-  fieldsOfStudy: ["Cybersecurity", "English Teaching"],
-  hobbies: ["👨‍🍳 Cooking", "🎨 Painting", "🎵 Music", "📸 Photography"],
-  funFacts: [
-    "I can whistle like a baby chick 🐣",
-    "I grew up on a ranch with cowboy grandparents 🤠",
-    "I'm great with kids and animals 🐶🧒",
-    "I’m probably making a pixel-perfect screen right now 📱✨"
-  ]
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  passions: string[];
+  currentFocus: string;
+}
+
+const jose: Developer = {
+  name: "José Ozuna",
+  location: "🇲🇽 Tuxtla Gutiérrez, Chiapas",
+  role: "Frontend Engineer & Mobile Developer",
+  passions: ["Pixel-perfect UIs", "Cinematic experiences", "Clean code"],
+  currentFocus: "Building NeoCine - A Letterboxd-inspired mobile app"
 };
 ```
 
----
-
-## 🌟 Featured Project: **NeoCine**
-
-📽️ A mobile app inspired by **Letterboxd**, developed with `React Native + Firebase + TMDB API`. It allows users to:
-- Log in with Firebase Auth and change their avatar 👤
-- Write and read movie reviews 📝
-- Browse top movies by genre, country, or legendary directors 🌍🎬
-- Save favorites and curated lists 📌
-- Enjoy a beautiful interface styled with dark themes and the **Merriweather** font 💅
-
-> _“Cinema meets design meets code.”_
-
-🧪 In progress: Review system, map-based movie exploration, and social sharing.
-
----
-
-## ⚙️ Tech Stack
-
 <div align="center">
 
-### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ **Tech Arsenal**
 
-### Tools & Frameworks  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+<br>React Native
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
+<br>Firebase
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48" />
+<br>Three.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+<br>Java
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 My Current Focus
-
-- 🎬 Finishing **NeoCine** app with map, review system and user profiles
-- 🧠 Studying **Cybersecurity** and **English Teaching**
-- 🧪 Experimenting with **AI + UI design**
-- ✨ Refining my [personal portfolio](https://github.com/joseozuna) with **Three.js** animations
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseozuna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseozuna&layout=compact&langs_count=7&theme=tokyonight"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseozuna&theme=tokyonight" alt="joseozuna" />
-</div>
-
----
-
-## 🤝 Let's Connect
+## 🌟 **Featured Project**
 
 <div align="center">
 
-📩 **Contact**: joseozuna.dev@gmail.com  
-🌐 **Portfolio**: [joseozuna.github.io](https://github.com/joseozuna)  
-💼 **Available for**: Remote frontend/mobile positions & collabs  
-🎨 **Aesthetic Obsessed**: Minimalist UI, cinematic feel, harmony between code and emotion
+### 🎬 **NeoCine** - *Cinema meets code*
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  📱 React Native + Firebase + TMDB API                     │
+│  🎨 Dark theme with Merriweather typography                │
+│  🔐 Firebase Authentication & Avatar system                │
+│  📝 Movie reviews & rating system                          │
+│  🌍 Browse by genre, country & legendary directors         │
+│  📌 Personal favorites & curated lists                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Status**: 🚧 In Development  
+**Next Features**: Map exploration, Social sharing, Enhanced reviews
 
 </div>
 
 ---
 
+## 📊 **GitHub Analytics**
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseozuna&label=Profile%20views&color=0e75b6&style=flat" alt="joseozuna" />
-  <br />
-  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="80" />
-  <br />
-  🐱🐧 **Code with kindness • Design with soul • Deploy with fire** 🔥
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joseozuna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseozuna&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=joseozuna&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=c9d1d9" />
+
+</div>
+
+---
+
+## 🎨 **Beyond Code**
+
+<div align="center">
+
+| 🧠 **Study** | 🎯 **Focus** | 🎨 **Hobbies** |
+|:---:|:---:|:---:|
+| Cybersecurity | AI + UI Design | 👨‍🍳 Cooking |
+| English Teaching | Three.js Animations | 🎨 Painting |
+| UX/UI Principles | Mobile Development | 📸 Photography |
+
+</div>
+
+### 🌱 **Fun Facts About Me**
+
+- 🐣 I can whistle like a baby chick (seriously!)
+- 🤠 Grew up on a ranch with cowboy grandparents
+- 🐶 Great with kids and animals
+- ✨ Probably pixel-perfecting a UI right now
+- 🎬 Cinema enthusiast building my own movie app
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+```
+Available for remote frontend/mobile positions & exciting collaborations
+```
+
+**📧 Email**: [joseozuna.dev@gmail.com](mailto:joseozuna.dev@gmail.com)  
+**🌐 Portfolio**: [joseozuna.github.io](https://joseozuna.github.io)  
+**💼 Status**: Open to opportunities
+
+---
+
+### 🎭 **Design Philosophy**
+
+> *"Code with kindness • Design with soul • Deploy with fire"*  
+> 
+> **Aesthetic obsessed**: Minimalist UI, cinematic feel, harmony between code and emotion
+
+</div>
+
+---
+
+<div align="center">
+
+```
+     ┌─────────────────────────────────────┐
+     │  Thanks for visiting my profile! 🚀 │
+     └─────────────────────────────────────┘
+```
+
+⭐ **Star my repos if you find them interesting!**
+
 </div>
