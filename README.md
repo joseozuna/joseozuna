@@ -1,103 +1,83 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="100" />
-</div>
+# Hey there! 🚀 I'm [jose elias ]
 
 <div align="center">
-
+  
 ```ascii
-╭──────────────────────────────────────────────╮
-│           🌟 José Ozuna - Digital Craftsman 🌟           │
-│                                              │
-│         ⚡ Where code meets creativity ⚡         │
-╰──────────────────────────────────────────────╯
+    ╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+    ┃  ⚡ Turning coffee into code since [2020] ⚡                                    ┃
+    ╰─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 ```
 
 </div>
 
-<div align="center"><strong>Software Engineer • UI Alchemist • Creative Coder</strong></div>
-
----
-
-## 🎨 My Creative Arsenal
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎭 Frontend Magic
+## 🎯 Currently
 
 ```javascript
-const skills = {
-  languages: ['JavaScript', 'TypeScript'],
-  frameworks: ['React', 'Next.js'],
-  styling: ['Tailwind', 'Sass', 'CSS3'],
-  superpower: 'Making pixels dance'
-}
+const developer = {
+    code: ["JavaScript", "Python", "TypeScript", "Go"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Next.js"],
+            css: ["Tailwind", "Sass"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "FastAPI"],
+            databases: ["PostgreSQL", "MongoDB"]
+        },
+        devOps: ["Docker", "AWS", "GitHub Actions"],
+        tools: ["Figma", "Postman", "VS Code"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm not ashamed"
+};
 ```
 
-</td>
-<td width="50%">
+## 🛠️ Tech Stack
 
-### 📱 Mobile Wizardry
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,django,postgres,mongodb,docker,aws,figma" />
+</p>
 
-```kotlin
-class MobileSkills {
-    val crossPlatform = "React Native"
-    val native = listOf("Java", "Kotlin")
-    val magic = "Apps that feel alive"
-}
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔧 Backend & Tools
-
-```python
-backend_stack = {
-    'runtime': ['Node.js', 'Python'],
-    'databases': ['MongoDB', 'Firebase'],
-    'creative_tools': ['Three.js', 'Blender', 'Figma'],
-    'secret_sauce': 'Ranch wisdom + digital innovation'
-}
-```
-
----
-
-## 🚀 What I Craft
-
-- 🎬 **Digital Experiences** → Interfaces that tell stories  
-- 🔐 **Secure Solutions** → Code with cybersecurity DNA  
-- 🎨 **Visual Narratives** → 3D worlds & motion poetry  
-- 🍳 **Creative Fusion** → Where tech meets art meets flavor
-
----
-
-## 🎯 Current Adventures
-
-- 🎥 **NeoCine** — Film platform that brings stories to life  
-- 🎓 **Master's Journey** — Cybersecurity & English Teaching  
-- 🐣 **Ranch Soul** — Coding with nature’s wisdom  
-- 🎵 **Sound & Vision** — Exploring audio-visual synesthesia
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-
-```ascii
-╭─────────────────────────────────────────────╮
-│   "Code with passion, create with soul,     │
-│     debug with coffee ☕ and joy ✨"         │
-╰─────────────────────────────────────────────╯
-```
-
-**Let’s build something that makes people say “¡Órale!”** 🌮🚀
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true"/>
 </div>
 
+## 🎪 Fun Zone
+
+<details>
+<summary>🎲 Random Dev Joke</summary>
+<br>
+
+> Why do programmers prefer dark mode?
+> 
+> Because the light attracts bugs! 🐛
+
+</details>
+
+<details>
+<summary>🎵 Coding Playlist</summary>
+<br>
+
+Currently vibing to: **[Your favorite coding music]** 🎧
+
+</details>
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
+</p>
+
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
