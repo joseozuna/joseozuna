@@ -40,12 +40,7 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,django,postgres,mongodb,docker,aws,figma" />
 </p>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true"/>
-</div>
 
 ## 🎪 Fun Zone
 
