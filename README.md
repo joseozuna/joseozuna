@@ -33,7 +33,7 @@ const developer = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,go,react,vue,nodejs,python,figma,mysql,c,cs,html" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,react,vue,nodejs,python,figma,mysql,c,cs,html,threejs,ubuntu,latex&perline=7" />
 
 </p>
 
