@@ -22,9 +22,6 @@ const developer = {
             python: ["Django", "FastAPI"],
             databases: ["PostgreSQL", "MongoDB"]
         },
-        devOps: ["Docker", "AWS", "GitHub Actions"],
-        tools: ["Figma", "Postman", "VS Code"]
-    },
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed"
 };
