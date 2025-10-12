@@ -38,25 +38,7 @@ const developer = {
 
 
 
-## 🎪 Fun Zone
 
-<details>
-<summary>🎲 Random Dev Joke</summary>
-<br>
-
-> Why do programmers prefer dark mode?
-> 
-> Because the light attracts bugs! 🐛
-
-</details>
-
-<details>
-<summary>🎵 Coding Playlist</summary>
-<br>
-
-Currently vibing to: **[Your favorite coding music]** 🎧
-
-</details>
 
 ## 🤝 Let's Connect!
 
